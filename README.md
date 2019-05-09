@@ -141,7 +141,7 @@ Again, you don't need to memorize these terms yet, but we want to help you
 develop an intuition for how these words are used. You will be using these
 terms when speaking with other developers and HTML authors.
 
-It may not seem like we did much work, but idea of a method for "marking up"
+It may not seem like we did much work, but the idea of a method for "marking up"
 _content_ and linking it is the foundation of the web. It's what made Tim
 Berners-Lee's reputation. And **you** just experienced Sir Tim's great insight.
 **AWESOME**.
@@ -207,7 +207,7 @@ Here we return to a "bulleted" unordered list.
 
 > **ASIDE**: If you've been following along closely, you  might be wondering, if
 > we didn't have a `<ul>` tag around our `<li>` items earlier, how did the
-> browser know how treat those `<li>` as if they were in a `<ul>`? When browsers
+> browser know how to treat those `<li>` as if they were in a `<ul>`? When browsers
 > detect problematic HTML they guess! This can lead to some very strange results
 > when you make an error, but if you write _invalid_ HTML, they try to recover.
 > HTML validity will be discussed further soon!
@@ -279,7 +279,7 @@ tweak, and adjust your _source text_ until the _rendered text_ displayed in the
 browser is to your
 liking. 
 
-In upcoming lessons, we will learn additional tags which provide us an more
+In upcoming lessons, we will learn additional tags which provide us more
 ways to describe our content.  We might be starting with lists today, but soon
 we'll be on this in exciting ways!
 
