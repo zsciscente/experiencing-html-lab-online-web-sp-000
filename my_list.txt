@@ -1,0 +1,6 @@
+"Charmander"
+"Charmillon"
+"Charizard"
+"Bulbasaur"
+"Ivysaur"
+"Venasaur"
